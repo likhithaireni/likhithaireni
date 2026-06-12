@@ -1,10 +1,18 @@
-<h1 align="center">Hi 👋, I'm </h1>
+# 👋 Hi, I'm
 
-<h3 align="center">LIKHITHA IRENI</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ireni+Likhitha" alt="Typing SVG" />
+  </a>
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=LIKHITHA IRENI;" />
-</p>
+---
+
+# 💡 Professional Summary
+
+B.Tech student with a strong interest in **Software Engineering, Artificial Intelligence, and Full Stack Development**. Experienced in developing NLP and Computer Vision solutions, including legal and financial document summarization and fake image detection systems. Skilled in Java, Python, React, MySQL, and modern development tools. Passionate about building scalable applications and continuously learning emerging technologies.
+
+---
 
 <p align="center">
   <a href="https://github.com/likhithaireni">
