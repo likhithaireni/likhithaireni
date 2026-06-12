@@ -14,23 +14,7 @@ B.Tech student with a strong interest in **Software Engineering, Artificial Inte
 
 
 
-## 🚀 About Me
 
-🎓 B.Tech (2026) — Malla Reddy Engineering College For Women
-
-💻 Passionate about Software Engineering, Artificial Intelligence and Full Stack Development.
-
-🔭 Built projects in NLP, Computer Vision, Java Development and Web Development.
-
-🌱 Currently learning advanced Software Engineering concepts and strengthening problem-solving skills.
-
-🎯 Looking for opportunities in:
-- Software Engineering
-- Full Stack Development
-- Backend Development
-- AI/ML Engineering
-
----
 
 ## 🛠️ Tech Stack
 
@@ -41,27 +25,18 @@ B.Tech student with a strong interest in **Software Engineering, Artificial Inte
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=likhithaireni&show_icons=true&theme=tokyonight" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithaireni&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
+<p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithaireni&theme=tokyonight"/>
 </p>
 
@@ -69,7 +44,7 @@ B.Tech student with a strong interest in **Software Engineering, Artificial Inte
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<p>
 <img src="https://github-profile-trophy.vercel.app/?username=likhithaireni&theme=tokyonight&row=1&column=6"/>
 </p>
 
@@ -98,10 +73,10 @@ https://github.com/likhithaireni/Fake_Image_Detection
 ### 💼 Internship Projects
 
 #### Hotel Style Event Booking System
-🔗 Add Repository Link Here
+🔗 [Project_Link](https://github.com/likhithaireni/Online-Booking-System.git)
 
 #### Online Auction Platform
-🔗 Add Repository Link Here
+🔗 [Project_Link](https://github.com/likhithaireni/Online-Auction-BidBattle.git)
 
 ---
 
