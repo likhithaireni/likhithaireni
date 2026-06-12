@@ -138,6 +138,8 @@ robustness and reliability of image authenticity detection
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=likhithaireni&show_icons=true&theme=tokyonight" height="180"/>
+  </p>
+  <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithaireni&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
