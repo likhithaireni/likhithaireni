@@ -35,8 +35,6 @@ Information Technology student with a strong foundation in Java, Python, and Ful
 
 ### 🔹NLP-Based Legal & Financial Document Summarization
 
-### 📄 Legal & Financial Document Summarizer
-
 📌 **Overview**
 Developed an NLP-based intelligent text summarization system that automatically 
 extracts and condenses key information from legal and financial documents using 
