@@ -12,29 +12,7 @@
 
 B.Tech student with a strong interest in **Software Engineering, Artificial Intelligence, and Full Stack Development**. Experienced in developing NLP and Computer Vision solutions, including legal and financial document summarization and fake image detection systems. Skilled in Java, Python, React, MySQL, and modern development tools. Passionate about building scalable applications and continuously learning emerging technologies.
 
----
 
-<p align="center">
-  <a href="https://github.com/likhithaireni">
-    <img src="https://komarev.com/ghpvc/?username=likhithaireni&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/likhitha-ireni-1677b2324">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/irenilikhitha">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="mailto:irenilikhitha@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
 
 ## 🚀 About Me
 
@@ -147,11 +125,23 @@ https://github.com/likhithaireni/Fake_Image_Detection
 
 📧 irenilikhitha@gmail.com
 
-💼 LinkedIn:
-https://www.linkedin.com/in/likhitha-ireni-1677b2324
 
-💻 HackerRank:
-https://www.hackerrank.com/profile/irenilikhitha
+<p align="center">
+  <a href="https://github.com/likhithaireni">
+    <img src="https://komarev.com/ghpvc/?username=likhithaireni&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
-🐙 GitHub:
-https://github.com/likhithaireni
+<p align="center">
+<a href="https://www.linkedin.com/in/likhitha-ireni-1677b2324">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/irenilikhitha">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="mailto:irenilikhitha@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
