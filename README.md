@@ -71,47 +71,89 @@ domain-specific legal and financial terminology
 
 ---
 
-### 🔹 Fake Image Detection
+### ⛓️ Blockchain-Based Certificate Verification System
 
 📌 **Overview**
-Developed a deep learning-based image classification system to detect fake 
-or manipulated images using Convolutional Neural Networks (CNN) and 
-texture-based feature extraction techniques, achieving 92–95% detection 
-accuracy and improving image authenticity detection across real-world 
-applications.
+Developed a secure web-based application to issue and authenticate digital 
+certificates using blockchain technology, eliminating certificate forgery and 
+manual verification processes. The system leverages decentralized and immutable 
+blockchain features to ensure tamper-proof storage, transparency, and trust in 
+academic and professional certificate management.
 
 ⚙️ **Features**
-- 🖼️ Classifies images as real or fake using deep learning models
-- 🧠 Uses CNN for automatic feature learning from images
-- 🔍 Applies Local Binary Patterns (LBP) for texture-based analysis
-- 📊 Performs image preprocessing and normalization for better accuracy
-- ⚡ Handles large image datasets efficiently for training and testing
-- 🎯 Improves detection of manipulated or tampered images
-- 📉 Reduces false positives by 20% through model optimization
-- 🔬 Combines CNN and LBP for enhanced robustness and reliability
+- 🔐 Secure user registration and login with role-based access control
+- 📜 Issues digital certificates with unique cryptographic hash values
+- 🔍 Verifies certificate authenticity via blockchain hash or QR code scanning
+- 🧱 Custom blockchain implementation with block creation, transaction 
+linking, and Proof-of-Work algorithm
+- 🗄️ Manages user sessions securely using Flask-Login
+- 📱 Generates unique QR code per certificate for instant verification
+- 🌐 Responsive and user-friendly frontend accessible to non-technical users
+- 🔒 SHA-256 cryptographic hashing ensures data integrity and immutability
+
 
 🛠️ **Tech Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/DeepLearning-FF6F00?style=flat&logo=python&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-013243?style=flat&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![LBP](https://img.shields.io/badge/LBP-TextureAnalysis-yellow?style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=bitcoin&logoColor=white)
+![QRCode](https://img.shields.io/badge/QRCode-Python-brightgreen?style=flat)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat&logo=jinja&logoColor=white)
 
 🚀 **Key Highlights**
--  Achieved 92–95% accuracy in detecting fake and manipulated 
-images using CNN-based feature learning
--  Reduced false positives by 20% through texture-based analysis 
-and model optimization
--  Improved detection reliability by 25% by combining CNN deep 
-learning with LBP texture features
--  Combined texture-based analysis with deep learning to improve 
-robustness and reliability of image authenticity detection
-
-🔗 [View Repository](https://github.com/likhithaireni/Fake_Image_Detection)
+- ✔ Built custom blockchain from scratch with Proof-of-Work, 
+hash generation, and transaction linking — no third-party blockchain used
+- ✔ Enabled instant certificate verification via unique QR code 
+and blockchain hash — reducing verification time significantly
+- ✔ Implemented role-based access control supporting Students, 
+University Admins, and Verifiers in a single unified platform
+- ✔ Research-backed project with 20+ references from IEEE and 
+peer-reviewed journals — academic year 2025-26
 
 ---
 
 ### 💼 Internship Projects
+
+## 🚀 Projects
+
+### 🔹NLP-Based Legal & Financial Document Summarization
+
+📌 **Overview**
+Developed an NLP-based intelligent text summarization system that automatically 
+extracts and condenses key information from legal and financial documents using 
+transformer-based models with multilingual support, improving readability and 
+reducing manual effort in document analysis across diverse languages.
+
+⚙️ **Features**
+- 📄 Automatically summarizes long and complex legal/financial documents
+- 🧠 Uses transformer-based NLP models for deep contextual understanding
+- 🌍 Supports multilingual summarization across 3+ languages
+- 📊 Extracts and prioritizes key information from unstructured text
+- ⚡ Reduces manual document review time by 40%
+- 🌐 Supports structured output generation for better readability
+- 🔍 Handles domain-specific terminology in legal and financial texts
+- ♿ Improves accessibility for diverse and multilingual user bases
+
+🛠️ **Tech Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9A00?style=flat&logo=huggingface&logoColor=white)
+
+🚀 **Key Highlights**
+-  Reduced manual review time by 40% through AI-driven summarization
+-  Multilingual support across 3+ languages improving accessibility 
+for diverse users
+-  Improved document processing efficiency by automating extraction 
+and summarization of critical insights from complex texts
+-  Enhanced readability through contextual understanding of 
+domain-specific legal and financial terminology
+
+🔗 [view_Repository](https://github.com/likhithaireni/NLP-_based-_Legal_and_financial_text_summaraization)
 
 #### Hotel Style Event Booking System
 🔗 [Project_Link](https://github.com/likhithaireni/Online-Booking-System.git)
