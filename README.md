@@ -33,6 +33,43 @@ Information Technology student with a strong foundation in Java, Python, and Ful
 
 ## 🚀 Projects
 
+###🔹 Graph Neural Network for Air Quality Prediction
+
+📌 Overview
+Developed an intelligent air quality prediction system using Q-learning (reinforcement learning) that adaptively forecasts pollutant levels — PM2.5, PM10, NO₂, CO, and SO₂ — by learning optimal prediction strategies through continuous environment interaction, integrating GNN-based spatial-temporal models with a Flask web deployment.
+⚙️ Features
+
+🧠 Q-learning agent for adaptive, real-time air quality prediction
+📊 Multi-model support: A3T-GCN, T-GCN, LSTM, GRU, CNN+LSTM
+🗺️ Spatial-temporal modeling across monitoring stations
+⚠️ Automated precautionary health advisories per prediction
+📧 OTP-based secure user authentication via email (SMTP)
+🗄️ SQLite3 backend for predictions and historical data storage
+🔄 Self-optimizing reward-based policy without manual retraining
+🌐 Flask web interface with Bootstrap4-powered responsive UI
+
+🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Q-Learning](https://img.shields.io/badge/Q--Learning-FF6F00?style=flat&logo=python&logoColor=white)
+![GNN](https://img.shields.io/badge/Graph_Neural_Network-0F6E56?style=flat&logo=graphql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM/GRU-7B2D8B?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite3-003B57?style=flat&logo=sqlite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap4-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+
+🚀 Key Highlights
+
+- Continuously self-improving model via reward-based Q-value updates with no manual retraining
+- A3T-GCN and T-GCN capture spatial correlations across sensor networks
+- Live predictions via Flask + SQLite3 stack with 91.8% Q-learning confidence
+- Context-aware precautionary health advisories issued alongside every prediction
+
 ### 🔹NLP-Based Legal & Financial Document Summarization
 
 📌 **Overview**
@@ -117,43 +154,6 @@ peer-reviewed journals — academic year 2025-26
 ---
 
 ### 💼 Internship Projects
-
-## 🚀 Projects
-
-### 🔹NLP-Based Legal & Financial Document Summarization
-
-📌 **Overview**
-Developed an NLP-based intelligent text summarization system that automatically 
-extracts and condenses key information from legal and financial documents using 
-transformer-based models with multilingual support, improving readability and 
-reducing manual effort in document analysis across diverse languages.
-
-⚙️ **Features**
-- 📄 Automatically summarizes long and complex legal/financial documents
-- 🧠 Uses transformer-based NLP models for deep contextual understanding
-- 🌍 Supports multilingual summarization across 3+ languages
-- 📊 Extracts and prioritizes key information from unstructured text
-- ⚡ Reduces manual document review time by 40%
-- 🌐 Supports structured output generation for better readability
-- 🔍 Handles domain-specific terminology in legal and financial texts
-- ♿ Improves accessibility for diverse and multilingual user bases
-
-🛠️ **Tech Stack**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=python&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9A00?style=flat&logo=huggingface&logoColor=white)
-
-🚀 **Key Highlights**
--  Reduced manual review time by 40% through AI-driven summarization
--  Multilingual support across 3+ languages improving accessibility 
-for diverse users
--  Improved document processing efficiency by automating extraction 
-and summarization of critical insights from complex texts
--  Enhanced readability through contextual understanding of 
-domain-specific legal and financial terminology
-
-🔗 [view_Repository](https://github.com/likhithaireni/NLP-_based-_Legal_and_financial_text_summaraization)
 
 #### Hotel Style Event Booking System
 🔗 [Project_Link](https://github.com/likhithaireni/Online-Booking-System.git)
