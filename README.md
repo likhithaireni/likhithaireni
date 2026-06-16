@@ -131,32 +131,44 @@ linking, and Proof-of-Work algorithm
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=bitcoin&logoColor=white)
 ![QRCode](https://img.shields.io/badge/QRCode-Python-brightgreen?style=flat)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat&logo=jinja&logoColor=white)
+
 
 🚀 **Key Highlights**
-- ✔ Built custom blockchain from scratch with Proof-of-Work, 
+- Built custom blockchain from scratch with Proof-of-Work, 
 hash generation, and transaction linking — no third-party blockchain used
-- ✔ Enabled instant certificate verification via unique QR code 
+- Enabled instant certificate verification via unique QR code 
 and blockchain hash — reducing verification time significantly
-- ✔ Implemented role-based access control supporting Students, 
+- Implemented role-based access control supporting Students, 
 University Admins, and Verifiers in a single unified platform
-- ✔ Research-backed project with 20+ references from IEEE and 
+- Research-backed project with 20+ references from IEEE and 
 peer-reviewed journals — academic year 2025-26
 
 ---
 
 ### 💼 Internship Projects
 
-#### Hotel Style Event Booking System
+#### Intern –  Java Programming
+VaultofCodes.in ( in partnership with Google for Education)
+
+Hotel Style Event Booking System
+- Developed a full-stack hotel-style event booking system using React, Spring Boot, and MySQL, enabling real-time room availability and seamless booking workflows.
+- Designed a responsive and user-friendly interface in React to enhance overall user experience and simplify navigation. 
+- Built RESTful backend services using Spring Boot and integrated MySQL database for booking workflows, improving data retrieval efficiency by 25\%.
 🔗 [Project_Link](https://github.com/likhithaireni/Online-Booking-System.git)
 
-#### Online Auction Platform
+#### Full-Stack Web Development With MERN Intern 
+Edunet Foundation in collaboration with EY and AICTE
+
+Online Auction Platform
+    - Developed a full-stack online auction platform using the MERN stack (React.js, Node.js, Express.js, MongoDB) to enable product listing, bidding, and real-time updates.
+    - Designed and implemented a responsive, user-friendly interface with React Hooks and Vite, enhancing page performance and user accessibility by 30 %.
+    - Integrated RESTful APIs for seamless data flow between client and server, ensuring 100\% functionality and reliability during testing with Postman.
+    - Deployed the project with version control using GitHub, maintaining clean commits and documentation for future scalability. 
 🔗 [Project_Link](https://github.com/likhithaireni/Online-Auction-BidBattle.git)
 
 ---
@@ -169,7 +181,6 @@ peer-reviewed journals — academic year 2025-26
 - HackerRank 5⭐ Java
 - HackerRank 4⭐ Problem Solving
 
----
 ---
 
 ## 📊 GitHub Stats
