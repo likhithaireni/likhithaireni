@@ -15,7 +15,7 @@ Information Technology student with a strong foundation in Java, Python, and Ful
 
 
 
-
+---
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -30,7 +30,7 @@ Information Technology student with a strong foundation in Java, Python, and Ful
 
 
 
-
+---
 ## 🚀 Projects
 
 ###🔹 Graph Neural Network for Air Quality Prediction
