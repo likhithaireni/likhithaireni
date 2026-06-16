@@ -150,7 +150,7 @@ peer-reviewed journals — academic year 2025-26
 
 ---
 
-### 💼 Internship Projects
+# 💼 Internship Projects
 
 #### Intern –  Java Programming
 VaultofCodes.in ( in partnership with Google for Education)
