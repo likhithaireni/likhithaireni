@@ -65,6 +65,9 @@ Developed an intelligent air quality prediction system using Q-learning (reinfor
 - Live predictions via Flask + SQLite3 stack with 91.8% Q-learning confidence
 - Context-aware precautionary health advisories issued alongside every prediction
 
+---
+
+
 ### 🔹NLP-Based Legal & Financial Document Summarization
 
 📌 **Overview**
