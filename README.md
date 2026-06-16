@@ -37,16 +37,17 @@ Information Technology student with a strong foundation in Java, Python, and Ful
 
 📌 Overview
 Developed an intelligent air quality prediction system using Q-learning (reinforcement learning) that adaptively forecasts pollutant levels — PM2.5, PM10, NO₂, CO, and SO₂ — by learning optimal prediction strategies through continuous environment interaction, integrating GNN-based spatial-temporal models with a Flask web deployment.
+
+
 ⚙️ Features
 
-🧠 Q-learning agent for adaptive, real-time air quality prediction
-📊 Multi-model support: A3T-GCN, T-GCN, LSTM, GRU, CNN+LSTM
-🗺️ Spatial-temporal modeling across monitoring stations
-⚠️ Automated precautionary health advisories per prediction
-📧 OTP-based secure user authentication via email (SMTP)
-🗄️ SQLite3 backend for predictions and historical data storage
-🔄 Self-optimizing reward-based policy without manual retraining
-🌐 Flask web interface with Bootstrap4-powered responsive UI
+- 🧠 Q-learning agent for adaptive, real-time air quality prediction
+- 📊 Multi-model support: A3T-GCN, T-GCN, LSTM, GRU, CNN+LSTM
+- 🗺️ Spatial-temporal modeling across monitoring stations
+- ⚠️ Automated precautionary health advisories per prediction
+- 📧 OTP-based secure user authentication via email (SMTP)
+- 🗄️ SQLite3 backend for predictions and historical data storage
+- 🌐 Flask web interface with Bootstrap4-powered responsive UI
 
 🛠️ Tech Stack
 
@@ -55,13 +56,7 @@ Developed an intelligent air quality prediction system using Q-learning (reinfor
 ![GNN](https://img.shields.io/badge/Graph_Neural_Network-0F6E56?style=flat&logo=graphql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM/GRU-7B2D8B?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite3-003B57?style=flat&logo=sqlite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap4-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+
 
 🚀 Key Highlights
 
